@@ -1,0 +1,19 @@
+{
+  "name": "@tyriar/eslint-config",
+  "version": "0.1.0",
+  "description": "@Tyriar's standard eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyriar/eslint-config.git"
+  },
+  "author": "Tyriar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tyriar/eslint-config/issues"
+  },
+  "homepage": "https://github.com/Tyriar/eslint-config#readme"
+}
